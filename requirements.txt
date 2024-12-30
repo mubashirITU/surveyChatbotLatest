@@ -1,5 +1,5 @@
-langchain_openai==0.2.14
-langchain==0.3.13
-pinecone==5.4.2
-langchain_pinecone==0.2.0
-streamlit==1.41.1
+langchain_openai
+langchain
+pinecone
+langchain_pinecone
+streamlit
