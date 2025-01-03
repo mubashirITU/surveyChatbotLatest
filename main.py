@@ -15,7 +15,7 @@ import streamlit as st
 st.set_page_config(page_title="DMIS Chatbot", layout="centered")
 st.title("Diagnostic Medical Images Segmentation (DMIS) Chatbot")
 st.markdown(
-    "A chatbot based on the survey paper: *Segmentation of Eight Diagnostic Medical Imaging Modalities: A Survey*."
+    "A chatbot based on the survey paper: *A Comprehensive Survey of Semantic Segmentation Across Eight Diagnostic Medical Imaging Modalities*."
 )
 index_name = "survey-paper-index"  
 
@@ -86,6 +86,6 @@ if st.button("Get Answer"):
 st.markdown("---")
 st.markdown(
     "### About this Chatbot\n"
-    "This chatbot is built to provide quick answers from the survey paper titled *Segmentation of Eight Diagnostic Medical Imaging Modalities: A Survey*.\n"
+    "This chatbot is built to provide quick answers from the survey paper titled *A Comprehensive Survey of Semantic Segmentation Across Eight Diagnostic Medical Imaging Modalities*.\n"
     "It supports queries related to methodologies, datasets, and imaging modalities discussed in the paper."
 )
